@@ -1,4 +1,4 @@
-<img style="width:100%" loading="lazy" alt="Project banner" src="https://github.com/user-attachments/assets/b502b389-4d34-413d-8597-69bd5709b3fb" />
+<img style="width:100%" loading="lazy" alt="Project banner" src="https://github.com/user-attachments/assets/5c791fc3-6a15-41a9-a5b1-a63352360e02" />
 
 # Sobre o projeto
 
